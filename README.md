@@ -23,3 +23,5 @@ Controls for visualizations:
 2) Change data size 
 3) Random generation of new data 
 4) Time and Space complexity of algorithm being visualized
+
+Take a look at the Live version: https://deploy-sortingalgorithm-visualizer.netlify.app/
