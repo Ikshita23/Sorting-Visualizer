@@ -19,7 +19,7 @@ Colored representation of step being executed:
 4) Green: In correct position
    
 Controls for visualizations:
-1) Speed of visualization (5 speed levels)
-2) 2) Data size ()
-3) Generation of new data (Randomly generate new data).
-4) Time and Space complexity of algorithm being visualized.
+1) Change speed of visualization
+2) Change data size ()
+3) Random generation of new data 
+4) Time and Space complexity of algorithm being visualized
