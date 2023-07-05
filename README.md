@@ -11,6 +11,7 @@ It is a web application showcasing the inner workings of sorting algorithms.
 6. Heap sort
 
 `Features:-`
+
 Colored representation of step being executed:
 1) Blue: Default 
 2) Yellow: Being compared
